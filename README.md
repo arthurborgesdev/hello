@@ -1,4 +1,30 @@
-# Hello
+![](https://img.shields.io/badge/Tutorials%20And%20Experiments-blue)
+
+# hello (Phoenix app from website)
+
+> In this project I [installed](https://hexdocs.pm/phoenix/installation.html) and [set up](https://hexdocs.pm/phoenix/up_and_running.html) the Phoenix Framework to help me understand it better and experiment.
+
+## Built With
+
+- Git
+- Github
+- VSCode
+- Elixir
+- Phoenix
+- Postgresql
+
+
+To get a local copy up and running follow these simple example steps.
+
+Clone the repository: `git@github.com:arthurborgesdev/hello.git`
+
+### Prerequisites
+
+Install Elixir and configure a Postgresql database.
+
+### Setup
+
+(From official Phoenix documentation):
 
 To start your Phoenix server:
 
@@ -18,3 +44,14 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@arthurborgesdev](https://github.com/arthurborgesdev)
+- Twitter: [@arthurmoises](https://twitter.com/arthurmoises)
+- LinkedIn: [Arthur Borges](https://linkedin.com/in/arthurmoises)
+
+
