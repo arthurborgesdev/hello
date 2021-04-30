@@ -46,9 +46,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Source: https://github.com/phoenixframework/phoenix
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Arthur Borges**
 
 - GitHub: [@arthurborgesdev](https://github.com/arthurborgesdev)
 - Twitter: [@arthurmoises](https://twitter.com/arthurmoises)
